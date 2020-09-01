@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d8eeb8e-0666-4f2e-a8dc-03accbf7c048" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week01/20200823_1周_陈宝顺.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +38,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.综合练习">
-    <configuration name="认识变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.练习">
+    <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +47,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/认识变量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\AutoPython\Course0823\Week02\字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/列表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/Dic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,48 +157,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/综合练习.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20200823_1周_陈宝顺 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01/task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/task/20200823_1周_陈宝顺.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20200823_1周_陈宝顺" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/20200823_1周_陈宝顺.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,41 +220,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="minigame" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/minigame.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.认识变量" />
-      <item itemvalue="Python.minigame" />
-      <item itemvalue="Python.20200823_1周_陈宝顺" />
-      <item itemvalue="Python.20200823_1周_陈宝顺 (1)" />
-      <item itemvalue="Python.综合练习" />
+      <item itemvalue="Python.字符串的赋值" />
+      <item itemvalue="Python.练习" />
+      <item itemvalue="Python.列表" />
+      <item itemvalue="Python.Dic" />
+      <item itemvalue="Python.函数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.综合练习" />
-        <item itemvalue="Python.20200823_1周_陈宝顺 (1)" />
-        <item itemvalue="Python.20200823_1周_陈宝顺" />
-        <item itemvalue="Python.认识变量" />
-        <item itemvalue="Python.minigame" />
+        <item itemvalue="Python.练习" />
+        <item itemvalue="Python.函数" />
+        <item itemvalue="Python.Dic" />
+        <item itemvalue="Python.列表" />
+        <item itemvalue="Python.字符串的赋值" />
       </list>
     </recent_temporary>
   </component>
@@ -259,21 +277,53 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="421" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598541289525" />
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1598541297640">
+    <state width="1510" height="264" key="GridCell.Tab.0.bottom" timestamp="1598971263811">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598541297640" />
-    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1598541297640">
+    <state width="1678" height="396" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773966" />
+    <state width="1510" height="264" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598971263811" />
+    <state width="1510" height="264" key="GridCell.Tab.0.center" timestamp="1598971263811">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598541297640" />
-    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1598541297639">
+    <state width="1678" height="396" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
+    <state width="1510" height="264" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598971263811" />
+    <state width="1510" height="264" key="GridCell.Tab.0.left" timestamp="1598971263810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598541297639" />
-    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1598541297640">
+    <state width="1678" height="396" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
+    <state width="1510" height="264" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598971263810" />
+    <state width="1510" height="264" key="GridCell.Tab.0.right" timestamp="1598971263811">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598541297640" />
+    <state width="1678" height="396" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
+    <state width="1510" height="264" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598971263811" />
+    <state width="1510" height="264" key="GridCell.Tab.1.bottom" timestamp="1598971263812">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598971263812" />
+    <state width="1510" height="264" key="GridCell.Tab.1.center" timestamp="1598971263811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1598971263811" />
+    <state width="1510" height="264" key="GridCell.Tab.1.left" timestamp="1598971263811">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1598971263811" />
+    <state width="1510" height="264" key="GridCell.Tab.1.right" timestamp="1598971263812">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598971263812" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598541696275">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1598541696275" />
+    <state x="589" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598542013109">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="589" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1598542013109" />
+    <state x="4168" y="322" width="672" height="678" key="search.everywhere.popup" timestamp="1598775646068">
+      <screen x="1920" y="0" width="3440" height="1410" />
+    </state>
+    <state x="4168" y="322" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598775646068" />
   </component>
 </project>
