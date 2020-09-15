@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af3f334e-9b6d-4059-bc8e-212aefd2bf7b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Course0823/.idea/Course0823.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/.idea/Course0823.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course0823/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/AutoEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/Calendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar_week.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/Calendar_week.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/乘法表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/五角星.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/五角星.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/六角形.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/六角形.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/异形圆.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/异形圆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正方形.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/正方形.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬取表情包.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/爬取表情包.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +40,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Course0823" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AutoPython\Learning\DemoTset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testscript_addteachers">
     <configuration name="五角星" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/五角星.py" />
+      <option name="SCRIPT_NAME" value="E:\AutoPython\Learning\DemoTset\五角星.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,8 +180,96 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="readfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/readfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/test_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testscript_addstudents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/testscript_addstudents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testscript_addteachers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/testscript_addteachers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testscript_addteachers" />
+        <item itemvalue="Python.readfile" />
+        <item itemvalue="Python.test_data" />
+        <item itemvalue="Python.testscript_addstudents" />
         <item itemvalue="Python.五角星" />
       </list>
     </recent_temporary>
@@ -192,25 +297,45 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598540428968" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1598454319778">
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1599406535333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598454319778" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1598454319778">
+    <state width="1259" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1599406535333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598454319778" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1598454319777">
+    <state width="1259" height="190" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1599406535333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598454319777" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1598454319778">
+    <state width="1259" height="190" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1599406535333">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598454319778" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1598538012996">
+    <state width="1259" height="190" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1599406535334">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598538012996" />
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
+    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1599406535334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
+    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1599406535333">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
+    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1599406535334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1599316712663">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599316712663" />
   </component>
 </project>
