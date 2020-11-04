@@ -1,0 +1,124 @@
+{
+  "uid" : "632255b61736c457",
+  "name" : "测试登录步骤",
+  "fullName" : "allure装饰器.Test_login#test_Decorator",
+  "historyId" : "ea3d228cf85a2a6d03f5586f279371af",
+  "time" : {
+    "start" : 1603603882785,
+    "stop" : 1603603882895,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1603603882671,
+      "stop" : 1603603882784,
+      "duration" : 113
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "这是测试的第一步",
+      "time" : {
+        "start" : 1603603882785,
+        "stop" : 1603603882895,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "accounts",
+        "value" : "'chin_mtx'"
+      }, {
+        "name" : "pwd",
+        "value" : "'123456'"
+      }, {
+        "name" : "exp",
+        "value" : "'登录成功'"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "正常登录"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "suite",
+    "value" : "allure装饰器"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "CHINMIPRO"
+  }, {
+    "name" : "thread",
+    "value" : "20132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure装饰器"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "accounts",
+    "value" : "'chin_mtx'"
+  }, {
+    "name" : "exp",
+    "value" : "'登录成功'"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456'"
+  } ],
+  "links" : [ {
+    "name" : "http://www.testfan.cn/",
+    "url" : "http://www.testfan.cn/",
+    "type" : "link"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "632255b61736c457.json",
+  "parameterValues" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+}

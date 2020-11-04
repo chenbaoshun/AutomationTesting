@@ -1,0 +1,5 @@
+2020-10-22 23:41:41,083 INFO [root] [LoginApi.py (__init__:17] - 实例化Mtx_Login对象
+2020-10-22 23:41:41,270 INFO [root] [LoginApi.py (login_suc:28] - 登录接口调用正常:<Response [200]>
+2020-10-22 23:41:41,452 INFO [root] [LoginApi.py (login_fail:40] - 登录接口调用正常:<Response [200]>
+2020-10-22 23:41:41,542 INFO [root] [LoginApi.py (__init__:17] - 实例化Mtx_Login对象
+2020-10-22 23:41:41,542 INFO [root] [LoginApi.py (__init__:17] - 实例化Mtx_Login对象

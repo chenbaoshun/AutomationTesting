@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 25 13:31:22 CST 2020","Sun Oct 25 13:31:22 CST 2020","110","","allure装饰器","Test_login","","","测试登录步骤",""
+"passed","Sun Oct 25 13:31:22 CST 2020","Sun Oct 25 13:31:23 CST 2020","111","","allure装饰器","Test_login","","","test_NO_Decorator[chin_mtx-123456-登录成功]",""

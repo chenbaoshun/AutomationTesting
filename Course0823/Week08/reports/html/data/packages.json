@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "allure装饰器",
+    "children" : [ {
+      "name" : "测试登录步骤",
+      "uid" : "632255b61736c457",
+      "parentUid" : "c3b3a1574aaff2f9300bda77065be8fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603603882785,
+        "stop" : 1603603882895,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+    }, {
+      "name" : "test_NO_Decorator[chin_mtx-123456-登录成功]",
+      "uid" : "56a6e0e52f76742f",
+      "parentUid" : "c3b3a1574aaff2f9300bda77065be8fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603603882901,
+        "stop" : 1603603883012,
+        "duration" : 111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+    } ],
+    "uid" : "c3b3a1574aaff2f9300bda77065be8fa"
+  } ]
+}

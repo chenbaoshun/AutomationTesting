@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d8eeb8e-0666-4f2e-a8dc-03accbf7c048" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Course0823.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Course0823.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/AutoEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/AutoEmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/Calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/Calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/Calendar_week.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/Calendar_week.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/乘法表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/五角星.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/五角星.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/六角形.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/六角形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/异形圆.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/异形圆.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/正方形.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/正方形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning/爬取表情包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning/DemoTset/爬取表情包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/task/homework.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +31,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+    <option name="sortByName" value="true" />
+  </component>
   <component name="ProjectId" id="1ggdzesKBhClR3Fl8YURoT3j4t3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,100 +45,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework1101" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AutoPython\Course0823\homework1101" />
+      <recent name="E:\AutoPython\Course0823\homework1018\tools" />
+      <recent name="E:\AutoPython\Course0823\Week07\task\20201018_7周_陈宝顺\api" />
+      <recent name="E:\AutoPython\Course0823\Week07\task\20201018_7周_陈宝顺\tools" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AutoPython\Course0823\Week03\data" />
+      <recent name="E:\AutoPython\Course0823\Week09\hrun_stu\hrun_stu" />
+      <recent name="E:\AutoPython\Course0823\Week09\hrun_stu" />
+      <recent name="E:\AutoPython\Course0823" />
+      <recent name="E:\AutoPython\Course0823\Week07" />
+      <recent name="E:\AutoPython\Course0823\Week05\test_demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20200823_3周_陈宝顺">
-    <configuration name="文件处理 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/文件处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="文件处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\AutoPython\Course0823\Week03\文件处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20200823_3周_陈宝顺" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03/task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/task/20200823_3周_陈宝顺.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20200906_蓝佳莉_第三周作业" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03/task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/task/20200906_蓝佳莉_第三周作业.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in httprunner_home_demo.py">
+    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\AutoPython\Course0823\Week02\字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,23 +148,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多行语句" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Course0823" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/多行语句.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="流程控制" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flask_demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/异常处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week09/hrun_stu/flask_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,83 +228,85 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="面向对象前序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in httpr_stu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/面向对象前序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases/httpr_stu.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in httprunner3X_Pa.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases/httprunner3X_Pa.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in httprunner_home_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week03/task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework1101" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week03/task/task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/homework1101/httprunner_home_demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_hrun_demo_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/har" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/har/test_hrun_demo_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.文件处理" />
-      <item itemvalue="Python.20200823_3周_陈宝顺" />
-      <item itemvalue="Python.task1" />
-      <item itemvalue="Python.文件处理 (1)" />
-      <item itemvalue="Python.20200906_蓝佳莉_第三周作业" />
+      <item itemvalue="Python.函数" />
+      <item itemvalue="Python.flask_demo (1)" />
+      <item itemvalue="Python tests.pytest in httpr_stu.py" />
+      <item itemvalue="Python tests.pytest in httprunner3X_Pa.py" />
+      <item itemvalue="Python tests.pytest in httprunner_home_demo.py" />
+      <item itemvalue="Python tests.pytest in test_hrun_demo_test.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20200823_3周_陈宝顺" />
-        <item itemvalue="Python.20200906_蓝佳莉_第三周作业" />
-        <item itemvalue="Python.文件处理 (1)" />
-        <item itemvalue="Python.task1" />
-        <item itemvalue="Python.文件处理" />
+        <item itemvalue="Python tests.pytest in httprunner_home_demo.py" />
+        <item itemvalue="Python tests.pytest in httprunner3X_Pa.py" />
+        <item itemvalue="Python.flask_demo (1)" />
+        <item itemvalue="Python tests.pytest in httpr_stu.py" />
+        <item itemvalue="Python tests.pytest in test_hrun_demo_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -434,43 +343,67 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增作业和练习代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599665882011">
+    <state x="2414" y="120" key="#Inspections" timestamp="1603892432102">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2414" y="120" key="#Inspections/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603892432102" />
+    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1603601389127" />
+    <state x="361" y="75" width="814" height="730" key="#Intentions" timestamp="1603209471840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1599665882011" />
+    <state x="361" y="75" width="814" height="730" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1603209471840" />
+    <state x="447" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603201895625">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1603201895625" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604501416913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604501416913" />
+    <state x="2544" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603987002141" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1603201960508" />
     <state x="421" y="0" key="CommitChangelistDialog2" timestamp="1598541289525">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="421" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598541289525" />
-    <state x="2378" y="142" key="FileChooserDialogImpl" timestamp="1599375600264">
-      <screen x="1920" y="0" width="1280" height="689" />
+    <state x="550" y="172" key="FileChooserDialogImpl" timestamp="1603640954233">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="2378" y="142" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599375600264" />
+    <state x="550" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603640954233" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599308213278" />
-    <state width="1515" height="253" key="GridCell.Tab.0.bottom" timestamp="1599667161864">
+    <state width="1515" height="312" key="GridCell.Tab.0.bottom" timestamp="1604503194232">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1259" height="130" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599382782894" />
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185672" />
+    <state width="1515" height="312" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194232" />
+    <state width="1899" height="238" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773966" />
-    <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599667161864" />
-    <state width="1515" height="253" key="GridCell.Tab.0.center" timestamp="1599667161864">
+    <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
+    <state width="1515" height="312" key="GridCell.Tab.0.center" timestamp="1604503194229">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1259" height="130" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599382782893" />
+    <state width="1259" height="181" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185671" />
+    <state width="1515" height="312" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194229" />
+    <state width="1899" height="238" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
-    <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599667161864" />
-    <state width="1515" height="253" key="GridCell.Tab.0.left" timestamp="1599667161864">
+    <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
+    <state width="1515" height="312" key="GridCell.Tab.0.left" timestamp="1604503194227">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1259" height="130" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599382782889" />
+    <state width="1259" height="181" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185670" />
+    <state width="1515" height="312" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194227" />
+    <state width="1899" height="238" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
-    <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599667161864" />
-    <state width="1515" height="253" key="GridCell.Tab.0.right" timestamp="1599667161864">
+    <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
+    <state width="1515" height="312" key="GridCell.Tab.0.right" timestamp="1604503194230">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1259" height="130" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599382782894" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185672" />
+    <state width="1515" height="312" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194230" />
+    <state width="1899" height="238" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
-    <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599667161864" />
+    <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
     <state width="1510" height="264" key="GridCell.Tab.1.bottom" timestamp="1598971263812">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -487,10 +420,12 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1510" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598971263812" />
-    <state x="2070" y="0" key="SettingsEditor" timestamp="1599371070556">
-      <screen x="1920" y="0" width="1280" height="689" />
+    <state x="180" y="0" key="SettingsEditor" timestamp="1603633118468">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="2070" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599371070556" />
+    <state x="2070" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600590378113" />
+    <state x="180" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603633118468" />
+    <state x="180" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603601706722" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598541696275">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -499,10 +434,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="589" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1598542013109" />
-    <state x="2756" y="157" width="672" height="332" key="search.everywhere.popup" timestamp="1599363749830">
-      <screen x="1920" y="0" width="1280" height="689" />
+    <state x="864" y="190" width="807" height="402" key="search.everywhere.popup" timestamp="1603206916019">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="2756" y="157" width="672" height="332" key="search.everywhere.popup/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599363749830" />
     <state x="4168" y="322" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598775646068" />
+    <state x="864" y="190" width="807" height="402" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603206916019" />
   </component>
 </project>

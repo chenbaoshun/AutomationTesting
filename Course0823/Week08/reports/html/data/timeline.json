@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CHINMIPRO",
+    "children" : [ {
+      "name" : "20132-MainThread",
+      "children" : [ {
+        "name" : "测试登录步骤",
+        "uid" : "632255b61736c457",
+        "parentUid" : "1564539233a932b5d04bb292d848a891",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603603882785,
+          "stop" : 1603603882895,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+      }, {
+        "name" : "test_NO_Decorator[chin_mtx-123456-登录成功]",
+        "uid" : "56a6e0e52f76742f",
+        "parentUid" : "1564539233a932b5d04bb292d848a891",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603603882901,
+          "stop" : 1603603883012,
+          "duration" : 111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+      } ],
+      "uid" : "1564539233a932b5d04bb292d848a891"
+    } ],
+    "uid" : "fad70d7aa438657d72c7542ed606bd0d"
+  } ]
+}

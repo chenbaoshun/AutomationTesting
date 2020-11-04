@@ -1,0 +1,21 @@
+[ {
+  "uid" : "56a6e0e52f76742f",
+  "name" : "test_NO_Decorator[chin_mtx-123456-登录成功]",
+  "time" : {
+    "start" : 1603603882901,
+    "stop" : 1603603883012,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "632255b61736c457",
+  "name" : "测试登录步骤",
+  "time" : {
+    "start" : 1603603882785,
+    "stop" : 1603603882895,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

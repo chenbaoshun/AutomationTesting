@@ -1,0 +1,31 @@
+config:
+    name: testcase description
+    variables: {}
+teststeps:
+-   name: /sugrec
+    request:
+        headers:
+            Sec-Fetch-Dest: empty
+            Sec-Fetch-Mode: cors
+            Sec-Fetch-Site: same-origin
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+                like Gecko) Chrome/86.0.4240.111 Safari/537.36
+        method: GET
+        params:
+            _t: '1604214515348'
+            csor: '0'
+            from: pc_web
+            hisdata: '[{"time":1599309718,"kw":"windows升级python的命令"},{"time":1599309780,"kw":"python"},{"time":1599318199,"kw":"pip安装本地包"},{"time":1599320514,"kw":"faker"},{"time":1599320534,"kw":"python
+                faker包"},{"time":1599320571,"kw":"python安装faker包"},{"time":1599355026,"kw":"webdriver"},{"time":1599371777,"kw":"随机姓名"},{"time":1599371793,"kw":"python随机姓"},{"time":1599383235,"kw":"谷歌webdriver"}]'
+            json: '1'
+            prod: pc_his
+            req: '2'
+            sid: '32810_1447_32879_31254_32706_7516_32270_32115_32846_32913'
+        url: https://www.baidu.com/sugrec
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - text/plain; charset=UTF-8

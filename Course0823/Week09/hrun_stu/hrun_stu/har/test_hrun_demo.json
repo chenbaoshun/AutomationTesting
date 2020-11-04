@@ -1,0 +1,68 @@
+{
+    "config": {
+        "name": "testcase description",
+        "variables": {}
+    },
+    "teststeps": [
+        {
+            "name": "/api/v1/admin/register",
+            "request": {
+                "url": "http://127.0.0.1:6666/api/v1/admin/register",
+                "method": "POST",
+                "headers": {
+                    "Content-Type": "application/json",
+                    "User-Agent": "PostmanRuntime/7.26.8",
+                    "Postman-Token": "092f4152-fbe4-4c35-b7a3-74b7f2be9907"
+                },
+                "json": {
+                    "userName": "user",
+                    "passWord": "123123"
+                }
+            },
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                },
+                {
+                    "eq": [
+                        "headers.Content-Type",
+                        "application/json"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "/api/v1/admin/login",
+            "request": {
+                "url": "http://127.0.0.1:6666/api/v1/admin/login",
+                "method": "POST",
+                "headers": {
+                    "Content-Type": "application/json",
+                    "User-Agent": "PostmanRuntime/7.26.8",
+                    "Postman-Token": "4aa023f8-6bd0-44a6-9757-59915ce486c0"
+                },
+                "json": {
+                    "userName": "user",
+                    "passWord": "123123"
+                }
+            },
+            "validate": [
+                {
+                    "eq": [
+                        "status_code",
+                        200
+                    ]
+                },
+                {
+                    "eq": [
+                        "headers.Content-Type",
+                        "application/json"
+                    ]
+                }
+            ]
+        }
+    ]
+}

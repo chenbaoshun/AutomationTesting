@@ -1,0 +1,77 @@
+{
+  "uid" : "56a6e0e52f76742f",
+  "name" : "test_NO_Decorator[chin_mtx-123456-登录成功]",
+  "fullName" : "allure装饰器.Test_login#test_NO_Decorator",
+  "historyId" : "debdf29f2625cfb5d2d90314c3531a29",
+  "time" : {
+    "start" : 1603603882901,
+    "stop" : 1603603883012,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1603603882671,
+      "stop" : 1603603882784,
+      "duration" : 113
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "allure装饰器"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "CHINMIPRO"
+  }, {
+    "name" : "thread",
+    "value" : "20132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure装饰器"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "accounts",
+    "value" : "'chin_mtx'"
+  }, {
+    "name" : "exp",
+    "value" : "'登录成功'"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56a6e0e52f76742f.json",
+  "parameterValues" : [ "'chin_mtx'", "'登录成功'", "'123456'" ]
+}

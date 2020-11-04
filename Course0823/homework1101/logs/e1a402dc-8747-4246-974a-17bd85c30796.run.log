@@ -1,0 +1,117 @@
+2020-11-01 22:45:02.328 | INFO     | httprunner.runner:test_start:451 - Start to run testcase: HttpRunner的接口case测试, TestCase ID: e1a402dc-8747-4246-974a-17bd85c30796
+2020-11-01 22:45:02.330 | INFO     | httprunner.runner:__run_step:292 - run step begin: 注册接口测试 >>>>>>
+2020-11-01 22:45:02.440 | WARNING  | httprunner.client:request:188 - failed to get client address info: 'NoneType' object has no attribute 'getsockname'
+2020-11-01 22:45:02.441 | WARNING  | httprunner.client:request:196 - failed to get server address info: 'NoneType' object has no attribute 'getpeername'
+2020-11-01 22:45:02.443 | DEBUG    | httprunner.client:log_print:40 - 
+================== request details ==================
+method   : POST
+url      : http://127.0.0.1:6666/api/v1/admin/register?username=root&password=123456
+headers  : {
+    "User-Agent": "python-requests/2.24.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "HRUN-Request-ID": "HRUN-e1a402dc-8747-4246-974a-17bd85c30796-902332",
+    "Content-Length": "0"
+}
+cookies  : {}
+body     : None
+
+2020-11-01 22:45:02.447 | DEBUG    | httprunner.client:log_print:40 - 
+================== response details ==================
+status_code : 500
+headers  : {
+    "Content-Type": "text/html",
+    "Content-Length": "290",
+    "Server": "Werkzeug/0.15.2 Python/3.7.0",
+    "Date": "Sun, 01 Nov 2020 14:45:02 GMT"
+}
+cookies  : {}
+encoding : ISO-8859-1
+content_type : text/html
+body     : <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+
+2020-11-01 22:45:02.450 | ERROR    | httprunner.client:request:215 - 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:6666/api/v1/admin/register?username=root&password=123456
+2020-11-01 22:45:02.451 | INFO     | httprunner.runner:__run_step:304 - run step end: 注册接口测试 <<<<<<
+
+2020-11-01 22:45:02.452 | INFO     | httprunner.runner:__run_step:292 - run step begin: 登录接口测试 >>>>>>
+2020-11-01 22:45:02.465 | WARNING  | httprunner.client:request:188 - failed to get client address info: 'NoneType' object has no attribute 'getsockname'
+2020-11-01 22:45:02.465 | WARNING  | httprunner.client:request:196 - failed to get server address info: 'NoneType' object has no attribute 'getpeername'
+2020-11-01 22:45:02.466 | DEBUG    | httprunner.client:log_print:40 - 
+================== request details ==================
+method   : POST
+url      : http://127.0.0.1:6666/api/v1/admin/login?username=root&password=123456
+headers  : {
+    "User-Agent": "python-requests/2.24.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "HRUN-Request-ID": "HRUN-e1a402dc-8747-4246-974a-17bd85c30796-902452",
+    "Content-Length": "0"
+}
+cookies  : {}
+body     : None
+
+2020-11-01 22:45:02.467 | DEBUG    | httprunner.client:log_print:40 - 
+================== response details ==================
+status_code : 500
+headers  : {
+    "Content-Type": "text/html",
+    "Content-Length": "290",
+    "Server": "Werkzeug/0.15.2 Python/3.7.0",
+    "Date": "Sun, 01 Nov 2020 14:45:02 GMT"
+}
+cookies  : {}
+encoding : ISO-8859-1
+content_type : text/html
+body     : <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+
+
+2020-11-01 22:45:02.467 | ERROR    | httprunner.client:request:215 - 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:6666/api/v1/admin/login?username=root&password=123456
+2020-11-01 22:45:02.468 | INFO     | httprunner.runner:__run_step:304 - run step end: 登录接口测试 <<<<<<
+
+2020-11-01 22:45:02.468 | INFO     | httprunner.runner:__run_step:292 - run step begin: 获取时间接口测试 >>>>>>
+2020-11-01 22:45:02.475 | WARNING  | httprunner.client:request:188 - failed to get client address info: 'NoneType' object has no attribute 'getsockname'
+2020-11-01 22:45:02.475 | WARNING  | httprunner.client:request:196 - failed to get server address info: 'NoneType' object has no attribute 'getpeername'
+2020-11-01 22:45:02.476 | DEBUG    | httprunner.client:log_print:40 - 
+================== request details ==================
+method   : GET
+url      : http://127.0.0.1:6666/api/v1/admin/time
+headers  : {
+    "User-Agent": "python-requests/2.24.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "HRUN-Request-ID": "HRUN-e1a402dc-8747-4246-974a-17bd85c30796-902469"
+}
+cookies  : {}
+body     : None
+
+2020-11-01 22:45:02.477 | DEBUG    | httprunner.client:log_print:40 - 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Content-Type": "application/json",
+    "Content-Length": "103",
+    "Server": "Werkzeug/0.15.2 Python/3.7.0",
+    "Date": "Sun, 01 Nov 2020 14:45:02 GMT"
+}
+cookies  : {}
+encoding : None
+content_type : application/json
+body     : {
+    "code": 200,
+    "message": "\u83b7\u53d6\u5f53\u524d\u65f6\u95f4\u6210\u529f",
+    "time": "2020-11-01 22:45:02"
+}
+
+2020-11-01 22:45:02.477 | INFO     | httprunner.client:request:218 - status_code: 200, response_time(ms): 5.86 ms, response_length: 0 bytes
+2020-11-01 22:45:02.478 | INFO     | httprunner.runner:__run_step:304 - run step end: 获取时间接口测试 <<<<<<
+
