@@ -1,0 +1,13 @@
+name: MTX登录接口api
+
+request:
+    url: /mtx/index.php?s=/index/user/login.html
+    method: POST
+    headers:
+        X-Requested-With: XMLHttpRequest
+    data:
+        accounts: $accounts
+        pwd: $pwd
+validate:
+    - eq: ["status_code", 200]
+

@@ -1,0 +1,14 @@
+name: 登录接口api
+variables:
+    var1: admin
+    var2: 1234
+request:
+    url: /pinter/com/login
+    method: POST
+    headers:
+        Content-Type: "application/json"
+    json:
+        userName: $var1
+        password: $var2
+validate:
+    - eq: ["status_code", 200]

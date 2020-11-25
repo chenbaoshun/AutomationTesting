@@ -1,4 +1,10 @@
 一、作业：
 1.建立自己的远程仓库，并同步练习代码到远程
+https://github.com/chenbaoshun/AutomationTesting.git
+$ git status
+$ git add -A
+$ git commit -m "提交代码备注"
+$ git push
+
 2.使用httprunner完成一个接口case，要求使用case依赖、WITH_JMESPATH提取器、with_data或者with_json
 *建立自己的远程仓库，并尝试推送一个项目

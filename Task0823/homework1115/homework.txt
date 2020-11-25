@@ -1,0 +1,12 @@
+一、作业：
+1.部署selenium环境
+  -浏览器+浏览器drive+selenium
+
+2.尝试编写mtx商城登录的脚本
+  -mtx_login_uitest.py
+
+3.复习面向对象和pytest
+  -
+
+4.练习xpath或者css语法的复合属性、层级定位
+  -mtx_login_uitest.py的xpath定位

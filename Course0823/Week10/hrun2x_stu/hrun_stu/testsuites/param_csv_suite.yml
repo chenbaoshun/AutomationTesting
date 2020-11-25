@@ -1,0 +1,10 @@
+
+config:
+    name: "使用csv数据文件进行参数化"
+
+testcases:
+-
+    name: csv参数化
+    testcase: /testcases/mtx_login_case.yml
+    parameters:
+        accounts-pwd: ${P(data/login_data.csv)}

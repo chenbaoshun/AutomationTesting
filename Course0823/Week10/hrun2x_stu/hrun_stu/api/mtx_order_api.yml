@@ -1,0 +1,19 @@
+name: mtx下单
+variables:
+  accounts: ${ENV(USERNAME)}
+  pwd: ${ENV(PASSWORD)}
+base_url: ${ENV(BASE_URL)}
+request:
+    url: /mtx/index.php?s=/index/buy/add.html
+    method: POST
+    headers:
+      X-Requested-With: XMLHttpRequest
+    data:
+      goods_id: 1
+      stock: 15
+      buy_type: goods
+      address_id: 2
+      payment_id: 1
+      spec: ""
+validate:
+    - eq: ["status_code", 200]

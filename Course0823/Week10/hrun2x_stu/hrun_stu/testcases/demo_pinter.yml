@@ -1,0 +1,36 @@
+
+config:
+    name: "使用pinter项目练习hrun2.x"
+    base_url: "http://192.168.0.112:8080"
+
+teststeps:
+-
+    name: 测试getSku接口
+    request:
+        url: /pinter/com/getSku
+        method: GET
+        data: skuId=1
+    extract:
+        - id: body.code
+    validate:
+        - eq: [ "status_code", 200 ]
+-
+    name: 测试login接口
+    request:
+        url: /pinter/com/login
+        method: POST
+        data: userName=admin&password=1234
+    extract:
+        - id: body.code
+    validate:
+        - eq: ["status_code", 200]
+-
+    name: 测试buy接口
+    request:
+        url: /pinter/com/buy
+        method: POST
+        data: param={"skuId":123,"num":10}
+    extract:
+         - id: body.code
+    validate:
+        - eq: [ "status_code", 200 ]

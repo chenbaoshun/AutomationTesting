@@ -1,0 +1,11 @@
+config:
+    name: "MTX注册case"
+
+teststeps:
+-
+    name: 正常注册
+    api: api/mtx_reg_api.yml
+    extract:
+        - id: body.code
+    validate:
+        - eq: [ "status_code", 200 ]

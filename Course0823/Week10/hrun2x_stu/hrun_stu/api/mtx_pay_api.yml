@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+# @File    : mtx_pay_api.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+name: MTX支付接口
+variables:
+  url: url
+base_url: base_url
+request:
+  url: url
+  method: POST
+
+  - test:
+      name: name
+      testcase: testcases/case.yml

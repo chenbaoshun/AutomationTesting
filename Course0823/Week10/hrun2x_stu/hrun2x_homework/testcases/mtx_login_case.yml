@@ -1,0 +1,13 @@
+config:
+    name: "MTX登录case"
+
+teststeps:
+-
+    name: 正常登录
+    api: api/mtx_login_api.yml
+    extract:
+        - id: body.code
+        - msg: body.msg
+    validate:
+        - eq: [ "status_code", 200 ]
+        - eq: [ $msg, "登录成功" ]

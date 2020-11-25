@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+# @File    : douban_elements.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+url: 'https://www.douban.com/'
+hot_mov_xpath: '//*[text()="最近热门电影"]/following-sibling::a[text()="更多»"]'
+more_xpath: '//*[text()="加载更多"]'
+chice_mov_xpath: '//h1[text()="选电影"]/following::div[@class="list-wp"]/child::div/a'

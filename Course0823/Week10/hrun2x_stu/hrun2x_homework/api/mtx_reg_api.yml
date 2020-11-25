@@ -1,0 +1,15 @@
+name: MTX注册接口api
+
+request:
+    url: /mtx/index.php?s=/index/user/reginfo.html
+    method: POST
+    headers:
+        X-Requested-With: XMLHttpRequest
+    data:
+        accounts: $accounts
+        pwd: $pwd
+        type: username
+        is_agree_agreement: 1
+validate:
+    - eq: ["status_code", 200]
+

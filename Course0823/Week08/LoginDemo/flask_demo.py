@@ -19,7 +19,7 @@ def register():
     # 1.接收和解析数据
     data = json.loads(request.get_data(as_text=True))
     name = data['name']
-    pwd = data['pwd']
+    pwd = data['password']
 
     # 2.编写这个接口的“逻辑”
     # 把注册信息，存储到文件中
@@ -41,7 +41,7 @@ def login():
     # 1.接收和解析数据
     data = json.loads(request.get_data(as_text=True))
     name = data['name']
-    pwd = data['pwd']
+    pwd = data['password']
 
     # 2.编写这个接口的“逻辑”
     # 把注册信息，存储到文件中

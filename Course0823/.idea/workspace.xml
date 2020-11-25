@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d8eeb8e-0666-4f2e-a8dc-03accbf7c048" name="Default" comment="" />
+    <list default="true" id="8d8eeb8e-0666-4f2e-a8dc-03accbf7c048" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/api/mtx_login_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/api/mtx_order_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/api/mtx_reg_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/data/login_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/data/reg_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/testcases/mtx_login_case.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/testcases/mtx_order_case.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/testcases/mtx_reg_case.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun2x_homework/testsuites/mtx_suite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/api/login_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/api/mtx_login_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/api/mtx_order_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/api/mtx_pay_api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/data/login_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testcases/demo_pinter.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testcases/mtx_login_case.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testcases/mtx_order_case.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testcases/引用api.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testsuites/param_csv_suite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/hrun_stu/testsuites/pinter_testsuite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/hrun2x_stu/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/cookie_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/综合练习/douban_elements.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week12/综合练习/test_douban_yml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week13/mtx_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1115/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1115/mtx_login_uitest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1122/datas/mtx_reg_elements.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1122/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1122/testcases/test_mtx_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1122/tools/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Course0823.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Course0823.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week08/LoginDemo/flask_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week08/LoginDemo/flask_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task0823/homework1101/homework.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task0823/homework1101/homework.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Pytest" />
+        <option value="Yml Script" />
         <option value="Python Script" />
       </list>
     </option>
@@ -40,88 +78,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework1101" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week12/综合练习" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AutoPython\Course0823\homework1101" />
-      <recent name="E:\AutoPython\Course0823\homework1018\tools" />
-      <recent name="E:\AutoPython\Course0823\Week07\task\20201018_7周_陈宝顺\api" />
-      <recent name="E:\AutoPython\Course0823\Week07\task\20201018_7周_陈宝顺\tools" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AutoPython\Course0823\Week12\综合练习" />
+      <recent name="E:\AutoPython\Course0823\Week10\mock" />
       <recent name="E:\AutoPython\Course0823\Week09\hrun_stu\hrun_stu" />
       <recent name="E:\AutoPython\Course0823\Week09\hrun_stu" />
       <recent name="E:\AutoPython\Course0823" />
-      <recent name="E:\AutoPython\Course0823\Week07" />
-      <recent name="E:\AutoPython\Course0823\Week05\test_demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AutoPython\Course0823\Week12\综合练习" />
+      <recent name="E:\AutoPython\Course0823\Week12" />
+      <recent name="E:\AutoPython\Course0823\homework1101" />
+      <recent name="E:\AutoPython\Course0823\homework1018\tools" />
+      <recent name="E:\AutoPython\Course0823\Week07\task\20201018_7周_陈宝顺\api" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in httprunner_home_demo.py">
-    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week02/列表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="综合练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week01/综合练习.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.cookie_login">
     <configuration name="综合练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flask_demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="combination_douban" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week12/综合练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week09/hrun_stu/flask_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week12/综合练习/combination_douban.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,85 +199,94 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in httpr_stu.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="cookie_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week12/cookie_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mtx_register" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course0823" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week13/mtx_register.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_douban.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week12/综合练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases/httpr_stu.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week12/综合练习/test_douban.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in httprunner3X_Pa.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_douban_yml.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Course0823" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week12/综合练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/testcases/httprunner3X_Pa.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in httprunner_home_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework1101" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/homework1101/httprunner_home_demo.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_hrun_demo_test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Course0823" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/har" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week09/hrun_stu/hrun_stu/har/test_hrun_demo_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Week12/综合练习/test_douban_yml.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.函数" />
-      <item itemvalue="Python.flask_demo (1)" />
-      <item itemvalue="Python tests.pytest in httpr_stu.py" />
-      <item itemvalue="Python tests.pytest in httprunner3X_Pa.py" />
-      <item itemvalue="Python tests.pytest in httprunner_home_demo.py" />
-      <item itemvalue="Python tests.pytest in test_hrun_demo_test.py" />
+      <item itemvalue="Python.combination_douban" />
+      <item itemvalue="Python.mtx_register" />
+      <item itemvalue="Python tests.pytest in test_douban.py" />
+      <item itemvalue="Python tests.pytest in test_douban_yml.py" />
+      <item itemvalue="Python.cookie_login" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in httprunner_home_demo.py" />
-        <item itemvalue="Python tests.pytest in httprunner3X_Pa.py" />
-        <item itemvalue="Python.flask_demo (1)" />
-        <item itemvalue="Python tests.pytest in httpr_stu.py" />
-        <item itemvalue="Python tests.pytest in test_hrun_demo_test.py" />
+        <item itemvalue="Python.cookie_login" />
+        <item itemvalue="Python tests.pytest in test_douban_yml.py" />
+        <item itemvalue="Python tests.pytest in test_douban.py" />
+        <item itemvalue="Python.combination_douban" />
+        <item itemvalue="Python.mtx_register" />
       </list>
     </recent_temporary>
   </component>
@@ -361,41 +346,41 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="421" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1598541289525" />
-    <state x="550" y="172" key="FileChooserDialogImpl" timestamp="1603640954233">
+    <state x="550" y="172" key="FileChooserDialogImpl" timestamp="1606141503873">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="2378" y="142" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599375600264" />
-    <state x="550" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603640954233" />
+    <state x="550" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606141503873" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599308213278" />
-    <state width="1515" height="312" key="GridCell.Tab.0.bottom" timestamp="1604503194232">
+    <state width="1515" height="226" key="GridCell.Tab.0.bottom" timestamp="1606228457252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185672" />
-    <state width="1515" height="312" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194232" />
+    <state width="1515" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606228457252" />
     <state width="1899" height="238" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773966" />
     <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
-    <state width="1515" height="312" key="GridCell.Tab.0.center" timestamp="1604503194229">
+    <state width="1515" height="226" key="GridCell.Tab.0.center" timestamp="1606228457252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="181" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185671" />
-    <state width="1515" height="312" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194229" />
+    <state width="1515" height="226" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606228457252" />
     <state width="1899" height="238" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
     <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
-    <state width="1515" height="312" key="GridCell.Tab.0.left" timestamp="1604503194227">
+    <state width="1515" height="226" key="GridCell.Tab.0.left" timestamp="1606228457251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="181" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185670" />
-    <state width="1515" height="312" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194227" />
+    <state width="1515" height="226" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606228457251" />
     <state width="1899" height="238" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
     <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
-    <state width="1515" height="312" key="GridCell.Tab.0.right" timestamp="1604503194230">
+    <state width="1515" height="226" key="GridCell.Tab.0.right" timestamp="1606228457252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="181" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600593185672" />
-    <state width="1515" height="312" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1604503194230" />
+    <state width="1515" height="226" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606228457252" />
     <state width="1899" height="238" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604068708250" />
     <state width="1678" height="396" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598778773965" />
     <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603603845093" />
@@ -415,11 +400,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1510" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1598971263812" />
-    <state x="180" y="0" key="SettingsEditor" timestamp="1603633118468">
+    <state x="180" y="0" key="SettingsEditor" timestamp="1606141368811">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="2070" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1600590378113" />
-    <state x="180" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1603633118468" />
+    <state x="180" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606141368811" />
     <state x="180" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603601706722" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598541696275">
       <screen x="0" y="0" width="1536" height="834" />
@@ -429,11 +414,23 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="589" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1598542013109" />
-    <state x="864" y="190" width="807" height="402" key="search.everywhere.popup" timestamp="1603206916019">
+    <state x="864" y="190" width="807" height="402" key="search.everywhere.popup" timestamp="1606016973060">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="2756" y="157" width="672" height="332" key="search.everywhere.popup/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599363749830" />
+    <state x="864" y="190" width="807" height="402" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606016973060" />
     <state x="4168" y="322" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.3440.1410@1920.0.3440.1410" timestamp="1598775646068" />
     <state x="864" y="190" width="807" height="402" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1603206916019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week07/test_mex_main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

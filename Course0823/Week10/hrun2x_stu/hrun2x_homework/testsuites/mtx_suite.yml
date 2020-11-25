@@ -1,0 +1,19 @@
+
+config:
+    name: "MTX下单测试集"
+    base_url: "http://192.168.0.112:8080/"
+
+testcases:
+-
+    name: 注册case
+    testcase: testcases/mtx_reg_case.yml
+    parameters:
+        accounts-pwd: ${P(data/reg_data.csv)}
+-
+    name: 登录case
+    testcase: testcases/mtx_login_case.yml
+    parameters:
+        accounts-pwd: ${P(data/login_data.csv)}
+-
+    name: 下单case
+    testcase: testcases/mtx_order_case.yml

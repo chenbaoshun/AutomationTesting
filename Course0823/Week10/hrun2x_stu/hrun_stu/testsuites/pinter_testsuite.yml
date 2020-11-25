@@ -1,0 +1,9 @@
+
+config:
+    name: "pinter回归测试集"
+    base_url: "http://192.168.0.112:8080/"
+
+testcases:
+-
+    name: 调用简单的case
+    testcase: testcases/demo_pinter.yml

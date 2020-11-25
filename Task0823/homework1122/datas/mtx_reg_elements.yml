@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+# @File    : mtx_reg_elements.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+url: 'http://121.42.15.146:9090/mtx/index.php?s=/index/user/reginfo.html'
+account: 'mtx_lili'
+pwd: 'p123456'
+name_input_xpath: '//*[@placeholder="请使用字母、数字、下划线 2~18 个字符"]'
+pwd_input_xpath: '//*[@placeholder="请使用字母、数字、下划线 2~18 个字符"]/parent::*/following-sibling::*//input[@name="pwd"]'
+agreement_choice_xpath: '//input[@data-validation-message="请同意注册协议"]/following-sibling::span/i[@class="am-icon-checked"]'
+reg_button_xpath: '//button[text()="注册"]'

@@ -1,0 +1,9 @@
+- config:
+    name: "MTX下单case01"
+
+- test:
+    name: 引用mtx_login_case
+    testcase: testcases/mtx_login_case.yml
+- test:
+    name: 正常下单
+    api: api/mtx_order_api.yml
