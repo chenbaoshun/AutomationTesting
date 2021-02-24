@@ -1,0 +1,15 @@
+[
+  {
+    "request":{
+      "method": "post",
+      "uri": "/login",
+      "json":{
+        "username": "bobo",
+        "password": "admin"
+      }
+    },
+    "response": {
+      "file": "login_response.json"
+    }
+  }
+]

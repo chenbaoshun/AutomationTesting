@@ -1,0 +1,132 @@
+{
+	"info": {
+		"_postman_id": "3c1da9c2-95eb-4585-9b25-b5b1536e997d",
+		"name": "api_test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://web.juhe.cn:8080/constellation/getAll?",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"状态码\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"响应结果断言\", function () {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(jsonData.name).to.eql(data.clcname);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"var clcname = data.clcname;"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://web.juhe.cn:8080/constellation/getAll?consName={{clcname}}&type=today&key=b4c0cbdedf9727d65f342f9733fa502e",
+					"protocol": "http",
+					"host": [
+						"web",
+						"juhe",
+						"cn"
+					],
+					"port": "8080",
+					"path": [
+						"constellation",
+						"getAll"
+					],
+					"query": [
+						{
+							"key": "consName",
+							"value": "{{clcname}}"
+						},
+						{
+							"key": "type",
+							"value": "today"
+						},
+						{
+							"key": "key",
+							"value": "b4c0cbdedf9727d65f342f9733fa502e"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://apis.juhe.cn/xzpd/query?men=金牛&women=白羊&key=f3eb4ee5e82a4f2e9421c697833ede87",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://apis.juhe.cn/xzpd/query?men=金牛&women=白羊&key=f3eb4ee5e82a4f2e9421c697833ede87",
+					"protocol": "http",
+					"host": [
+						"apis",
+						"juhe",
+						"cn"
+					],
+					"path": [
+						"xzpd",
+						"query"
+					],
+					"query": [
+						{
+							"key": "men",
+							"value": "金牛"
+						},
+						{
+							"key": "women",
+							"value": "白羊"
+						},
+						{
+							"key": "key",
+							"value": "f3eb4ee5e82a4f2e9421c697833ede87"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "apis.juhe.cn"
+		}
+	]
+}

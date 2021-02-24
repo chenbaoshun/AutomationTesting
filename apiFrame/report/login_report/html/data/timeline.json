@@ -1,0 +1,354 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CHINMIPRO",
+    "children" : [ {
+      "name" : "11284-MainThread",
+      "children" : [ {
+        "name" : "test_login[data0]",
+        "uid" : "501e85a1c218f35e",
+        "parentUid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936147223,
+          "stop" : 1611936147229,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'chin', 'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': 'chin'}" ]
+      }, {
+        "name" : "test_login[data3]",
+        "uid" : "d0211b11eebe9421",
+        "parentUid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936147256,
+          "stop" : 1611936147261,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 'asd', 'sex': '男'}, 'expect': '年龄必须为正整数'}" ]
+      }, {
+        "name" : "test_login[data2]",
+        "uid" : "f1595560deeca82f",
+        "parentUid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936147245,
+          "stop" : 1611936147252,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'age': 18, 'sex': '男'}, 'expect': '账户密码不能为空'}" ]
+      }, {
+        "name" : "test_login[data1]",
+        "uid" : "164cb79afa227d7d",
+        "parentUid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936147235,
+          "stop" : 1611936147240,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+      }, {
+        "name" : "test_login[data4]",
+        "uid" : "54b992bdc74d75ab",
+        "parentUid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936147267,
+          "stop" : 1611936147271,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 18, 'sex': 'as'}, 'expect': '性别只能是男或者女'}" ]
+      } ],
+      "uid" : "d9ffb54fda1cfb01cfe05d8ab7390b8b"
+    }, {
+      "name" : "33156-MainThread",
+      "children" : [ {
+        "name" : "test_login[data0]",
+        "uid" : "19e3c83ef1737b26",
+        "parentUid" : "b678ab20be07b36b9808e14348c1af11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936063676,
+          "stop" : 1611936063685,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'chin', 'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': 'chin'}" ]
+      }, {
+        "name" : "test_login[data2]",
+        "uid" : "a18b6a24d939dc5e",
+        "parentUid" : "b678ab20be07b36b9808e14348c1af11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936063702,
+          "stop" : 1611936063710,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'age': 18, 'sex': '男'}, 'expect': '账户密码不能为空'}" ]
+      }, {
+        "name" : "test_login[data3]",
+        "uid" : "75e7a78aba8e583d",
+        "parentUid" : "b678ab20be07b36b9808e14348c1af11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936063715,
+          "stop" : 1611936063721,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 'asd', 'sex': '男'}, 'expect': '年龄必须为正整数'}" ]
+      }, {
+        "name" : "test_login[data4]",
+        "uid" : "b9b9238bc0a14a8",
+        "parentUid" : "b678ab20be07b36b9808e14348c1af11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936063728,
+          "stop" : 1611936063733,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 18, 'sex': 'as'}, 'expect': '性别只能是男或者女'}" ]
+      }, {
+        "name" : "test_login[data1]",
+        "uid" : "765b926ad68ba2d6",
+        "parentUid" : "b678ab20be07b36b9808e14348c1af11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936063692,
+          "stop" : 1611936063697,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+      } ],
+      "uid" : "b678ab20be07b36b9808e14348c1af11"
+    }, {
+      "name" : "17788-MainThread",
+      "children" : [ {
+        "name" : "登录接口自动化测试报告",
+        "uid" : "13d945242d03a64c",
+        "parentUid" : "6671c56c9e31dbf53319492939f51a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936816589,
+          "stop" : 1611936816595,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'age': 18, 'sex': '男'}, 'expect': '账户密码不能为空'}" ]
+      }, {
+        "name" : "登录接口自动化测试报告",
+        "uid" : "7c0d1c501d729291",
+        "parentUid" : "6671c56c9e31dbf53319492939f51a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936816601,
+          "stop" : 1611936816606,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 'asd', 'sex': '男'}, 'expect': '年龄必须为正整数'}" ]
+      }, {
+        "name" : "登录接口自动化测试报告",
+        "uid" : "10637dced7a45255",
+        "parentUid" : "6671c56c9e31dbf53319492939f51a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936816548,
+          "stop" : 1611936816564,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'chin', 'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': 'chin'}" ]
+      }, {
+        "name" : "登录接口自动化测试报告",
+        "uid" : "2ac5f86a87065aad",
+        "parentUid" : "6671c56c9e31dbf53319492939f51a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936816573,
+          "stop" : 1611936816583,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+      }, {
+        "name" : "登录接口自动化测试报告",
+        "uid" : "74de55e96cc28ec4",
+        "parentUid" : "6671c56c9e31dbf53319492939f51a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611936816612,
+          "stop" : 1611936816616,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 18, 'sex': 'as'}, 'expect': '性别只能是男或者女'}" ]
+      } ],
+      "uid" : "6671c56c9e31dbf53319492939f51a8f"
+    }, {
+      "name" : "35928-MainThread",
+      "children" : [ {
+        "name" : "test_login[data1]",
+        "uid" : "cf470710ebe006c6",
+        "parentUid" : "be4354c494134612dd3dab8930e6d9ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611937105019,
+          "stop" : 1611937105026,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+      }, {
+        "name" : "test_login[data2]",
+        "uid" : "4c08dc3cbb6e07b8",
+        "parentUid" : "be4354c494134612dd3dab8930e6d9ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611937105035,
+          "stop" : 1611937105041,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'age': 18, 'sex': '男'}, 'expect': '账户密码不能为空'}" ]
+      }, {
+        "name" : "test_login[data0]",
+        "uid" : "f8665087d9fb3cfd",
+        "parentUid" : "be4354c494134612dd3dab8930e6d9ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611937105004,
+          "stop" : 1611937105012,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'chin', 'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': 'chin'}" ]
+      }, {
+        "name" : "test_login[data3]",
+        "uid" : "2a9e7804da64e289",
+        "parentUid" : "be4354c494134612dd3dab8930e6d9ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611937105047,
+          "stop" : 1611937105055,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 'asd', 'sex': '男'}, 'expect': '年龄必须为正整数'}" ]
+      }, {
+        "name" : "test_login[data4]",
+        "uid" : "a2e90d6faa3098e6",
+        "parentUid" : "be4354c494134612dd3dab8930e6d9ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611937105062,
+          "stop" : 1611937105069,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 18, 'sex': 'as'}, 'expect': '性别只能是男或者女'}" ]
+      } ],
+      "uid" : "be4354c494134612dd3dab8930e6d9ef"
+    }, {
+      "name" : "36172-MainThread",
+      "children" : [ {
+        "name" : "test_login[data2]",
+        "uid" : "d0ed731b1f407ae4",
+        "parentUid" : "f5b3ac0077e4f460d8f8378f46841fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611935987047,
+          "stop" : 1611935987056,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'age': 18, 'sex': '男'}, 'expect': '账户密码不能为空'}" ]
+      }, {
+        "name" : "test_login[data3]",
+        "uid" : "78b5cb8b1efce76d",
+        "parentUid" : "f5b3ac0077e4f460d8f8378f46841fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611935987064,
+          "stop" : 1611935987075,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 'asd', 'sex': '男'}, 'expect': '年龄必须为正整数'}" ]
+      }, {
+        "name" : "test_login[data4]",
+        "uid" : "192fa92acd6dc752",
+        "parentUid" : "f5b3ac0077e4f460d8f8378f46841fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611935987082,
+          "stop" : 1611935987089,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'admin', 'password': 'admin', 'age': 18, 'sex': 'as'}, 'expect': '性别只能是男或者女'}" ]
+      }, {
+        "name" : "test_login[data0]",
+        "uid" : "62531c720bfc063f",
+        "parentUid" : "f5b3ac0077e4f460d8f8378f46841fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611935986932,
+          "stop" : 1611935986945,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'username': 'chin', 'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': 'chin'}" ]
+      }, {
+        "name" : "test_login[data1]",
+        "uid" : "8ac5281ca5b8d81c",
+        "parentUid" : "f5b3ac0077e4f460d8f8378f46841fed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611935986956,
+          "stop" : 1611935986965,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+      } ],
+      "uid" : "f5b3ac0077e4f460d8f8378f46841fed"
+    } ],
+    "uid" : "fad70d7aa438657d72c7542ed606bd0d"
+  } ]
+}

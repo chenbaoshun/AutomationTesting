@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+# @File    : good_info.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+sku-line1: "//li[@data-value='套餐一']"
+sku-line2: "//li[@data-value='金色']"
+sku-line3: "//li[@data-value='32G']"
+buy_button: "//button[text()='立即购买']"

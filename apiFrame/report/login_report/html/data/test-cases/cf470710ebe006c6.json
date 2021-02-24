@@ -1,0 +1,158 @@
+{
+  "uid" : "cf470710ebe006c6",
+  "name" : "test_login[data1]",
+  "fullName" : "tests.test_login#test_login",
+  "historyId" : "2688bd7b637cf95c1f1d0fda43188658",
+  "time" : {
+    "start" : 1611937105019,
+    "stop" : 1611937105026,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1611937104857,
+      "stop" : 1611937104999,
+      "duration" : 142
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1611937104999,
+      "stop" : 1611937104999,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1611937105019,
+      "stop" : 1611937105019,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1611937105002,
+      "stop" : 1611937105002,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1611937105001,
+      "stop" : 1611937105001,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "接口测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "CHINMIPRO"
+  }, {
+    "name" : "thread",
+    "value" : "35928-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ac5f86a87065aad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611936816573,
+        "stop" : 1611936816583,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "164cb79afa227d7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611936147235,
+        "stop" : 1611936147240,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "765b926ad68ba2d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611936063692,
+        "stop" : 1611936063697,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf470710ebe006c6.json",
+  "parameterValues" : [ "{'url': 'http://127.0.0.1:5555/login', 'method': 'post', 'data': {'password': 'admin', 'age': 18, 'sex': '男'}, 'expect': '用户名不能为空'}" ]
+}

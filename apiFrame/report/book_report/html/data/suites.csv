@@ -1,0 +1,21 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 31 16:27:38 CST 2021","Sun Jan 31 16:27:38 CST 2021","34","","test_book","TestBook","","","test_book_005","
+		删除书籍
+		:return:
+		"
+"passed","Sun Jan 31 16:27:38 CST 2021","Sun Jan 31 16:27:38 CST 2021","32","","test_book","TestBook","","","test_book_004","
+		编辑书籍
+		:return:
+		"
+"passed","Sun Jan 31 16:27:38 CST 2021","Sun Jan 31 16:27:38 CST 2021","23","","test_book","TestBook","","","test_book_001","
+		获取所有书籍的信息
+		:return:
+		"
+"passed","Sun Jan 31 16:27:38 CST 2021","Sun Jan 31 16:27:38 CST 2021","13","","test_book","TestBook","","","test_book_003","
+		查看添加的书籍
+		:return:
+		"
+"passed","Sun Jan 31 16:27:38 CST 2021","Sun Jan 31 16:27:38 CST 2021","19","","test_book","TestBook","","","test_book_002","
+		添加书籍
+		:return:
+		"

@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+# @File    : mtx_reg.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+name_input: '//*[@placeholder="请使用字母、数字、下划线 2~18 个字符"]'
+pwd_input: '//*[@placeholder="请使用字母、数字、下划线 2~18 个字符"]/parent::*/following-sibling::*//input[@name="pwd"]'
+button: '//input[@data-validation-message="请同意注册协议"]/following-sibling::span/i[@class="am-icon-checked"]'
+reg_button: '//button[text()="注册"]'
+assert_reg: "//*[text()='test_buyu，欢迎来到']"
+search-input: 'search-input'
+ai-topsearch: 'ai-topsearch'

@@ -1,0 +1,16 @@
+[
+  {
+    "request":{
+      "method": "post",
+      "uri": "/system",
+      "json":{
+        "telephone": "13323233434",
+        "name": "bobo",
+        "idNo": "6226262662626266262"
+      }
+    },
+    "response": {
+      "file": "f1.json"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+---
+#查看所有书籍信息
+"url": "http://localhost:5000/v1/api/books"
+"expect": '"name": "Python接口自动化测试实战"'
+---
+#查看id为1的书籍信息
+"url": "http://localhost:5000/v1/api/book/1"
+"expect": '"author": "tester"'

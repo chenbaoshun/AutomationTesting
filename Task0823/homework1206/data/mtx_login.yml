@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+# @File    : mtx_login.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+user_input: "//input[@placeholder='用户名/手机/邮箱']"
+pwd_input: "//input[@placeholder='登录密码']"
+login_button: "//button[text()='登录']"

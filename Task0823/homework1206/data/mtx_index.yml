@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+# @File    : mtx_index.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+login_button: "//a[@class='am-btn-primary btn am-fl']"
+search-input: "//input[@id='search-input']"
+ai-topsearch: "//input[@id='ai-topsearch']"
+mouse_ele: "//a[@title='数码办公']"
+phone_m: "//dd//a[@title='手机']"

@@ -49,3 +49,8 @@ following-sibling:所有同级的后面节点（ 哥哥）
 # //div[@class='goods-list']/descendant::a[text()='Meizu/魅族 MX4 Pro移动版 八核大屏智能手机 黑色 16G']
 # 先全文搜索找到，class='goods-list'的div标签
 # 再从子代里找到text()='Meizu/魅族 MX4 Pro移动版 八核大屏智能手机 黑色 16G'
+
+<a href="http://121.42.15.146:9090/mtx/index.php?s=/index/goods/index/id/12.html" target="_blank" class="am-block">
+                                            <!-- 首页楼层商品内部顶部钩子 -->
+                                                                                        <img src="http://121.42.15.146:9090/mtx/public/static/upload/images/goods/2019/01/14/1547455890402147.jpg" alt="ZK星星绣花雪纺连衣裙中长款sukol裙少女心温柔超仙女chic裙子夏" class="goods-images">
+                                        </a>

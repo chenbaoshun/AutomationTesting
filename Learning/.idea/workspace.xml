@@ -2,19 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af3f334e-9b6d-4059-bc8e-212aefd2bf7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Course0823/.idea/Course0823.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/.idea/Course0823.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course0823/Week01/return-yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course0823/Week13/mtx_save_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course0823/Week14/douyin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiDemo/pytest_test/pytest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiDemo/pytest_test/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixinchangeimage/weixin_image_v1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/case/test_mtx_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/case/test_mtx_useraddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/data/good_info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/data/mtx_index.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/data/mtx_login.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/data/mtx_reg.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/data/user_address.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/mtx_save_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/page/mtx_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/page/mtx_useraddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1129/tools/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/case/test_mtx_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/case/test_mtx_useraddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/data/good_info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/data/mtx_index.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/data/mtx_login.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/data/mtx_reg.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/data/user_address.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/homework.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/mtx_save_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/page/mtx_reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/page/mtx_useraddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/test_douyin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1206/tools/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task0823/homework1213/homework.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Course0823/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course0823/Week11/xpath_stu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/Week11/xpath_stu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course0823/Week12/selector_stu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Course0823/Week12/selector_stu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoEmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/AutoEmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/Calendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar_week.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/Calendar_week.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/乘法表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/五角星.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/五角星.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/六角形.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/六角形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/异形圆.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/异形圆.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/正方形.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/正方形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬取表情包.py" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTset/爬取表情包.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Yml Script" />
         <option value="Python Script" />
       </list>
     </option>
@@ -40,36 +68,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoInerface_project" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AutoPython\Learning\接口自动化测试验证点脚本\wenxian_test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\AutoPython\Learning\DemoTset" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.testscript_addteachers">
-    <configuration name="五角星" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\AutoPython\Learning\DemoTset\五角星.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_api_demo">
     <configuration name="异形圆" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异形圆.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -180,7 +194,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="readfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,11 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ApiDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/readfile.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ApiDemo/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="peidui_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,11 +224,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ApiDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/test_data.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ApiDemo/peidui_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testscript_addstudents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_api_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +246,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web自动化训练" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ApiDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/testscript_addstudents.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ApiDemo/test_api_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +272,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web自动化训练/testscript_addteachers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yunshi_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ApiDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ApiDemo/yunshi_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_api_demo" />
+        <item itemvalue="Python.peidui_demo" />
+        <item itemvalue="Python.yunshi_demo" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.testscript_addteachers" />
-        <item itemvalue="Python.readfile" />
-        <item itemvalue="Python.test_data" />
-        <item itemvalue="Python.testscript_addstudents" />
-        <item itemvalue="Python.五角星" />
       </list>
     </recent_temporary>
   </component>
@@ -282,60 +322,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597935959446</updated>
+      <workItem from="1608391052588" duration="1015000" />
+      <workItem from="1608392133550" duration="56000" />
+      <workItem from="1608392302228" duration="55000" />
+      <workItem from="1608393318926" duration="34000" />
+      <workItem from="1608393769581" duration="47000" />
+      <workItem from="1609330747235" duration="349000" />
+      <workItem from="1609331204161" duration="68000" />
     </task>
     <servers />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="395" y="95" key="#Inspections" timestamp="1598454065886">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1598454065886" />
-    <state x="496" y="113" key="FileChooserDialogImpl" timestamp="1598540428968">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1598540428968" />
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1599406535333">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1259" height="190" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
-    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1599406535333">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1259" height="190" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
-    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
-    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1599406535333">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1259" height="190" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
-    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
-    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1599406535333">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1259" height="190" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.689@1920.0.1280.689" timestamp="1599386405991" />
-    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
-    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1599406535334">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
-    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1599406535334">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
-    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1599406535333">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1599406535333" />
-    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1599406535334">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1599406535334" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1599316712663">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599316712663" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

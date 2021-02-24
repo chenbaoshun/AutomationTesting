@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+# @File    : user_address.yml
+# @Author  : Baoshun.Chin
+# @Email   : baoshunchin@qq.com
+
+add_address: "//button[@type='button']/following::button[4]"
+address_frame: "//iframe/following::iframe[2]"
+name_input: "name"
+phone_input: "tel"
+province_select: "//label[@class='block']/following-sibling::div[1]"
+city_select: "//label[@class='block']/following-sibling::div[2]"
+county_select: "//label[@class='block']/following-sibling::div[3]"
+address_input: "address"
+alias_input: "alias"
+is_default: "//*[text()='是否默认']/following-sibling::div"
+save_button: "//button[text()='保存']"

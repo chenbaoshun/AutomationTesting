@@ -1,0 +1,4 @@
+一、作业：
+1.尝试配置selenium-jenkins任务
+2.调试appium环境,并跑通课上案例
+3.尝试用将案例改造为pytest-case

@@ -1,0 +1,101 @@
+[ {
+  "uid" : "4c08dc3cbb6e07b8",
+  "name" : "test_login[data2]",
+  "time" : {
+    "start" : 1611937105035,
+    "stop" : 1611937105041,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf470710ebe006c6",
+  "name" : "test_login[data1]",
+  "time" : {
+    "start" : 1611937105019,
+    "stop" : 1611937105026,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "192fa92acd6dc752",
+  "name" : "test_login[data4]",
+  "time" : {
+    "start" : 1611935987082,
+    "stop" : 1611935987089,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a9e7804da64e289",
+  "name" : "test_login[data3]",
+  "time" : {
+    "start" : 1611937105047,
+    "stop" : 1611937105055,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ac5281ca5b8d81c",
+  "name" : "test_login[data1]",
+  "time" : {
+    "start" : 1611935986956,
+    "stop" : 1611935986965,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78b5cb8b1efce76d",
+  "name" : "test_login[data3]",
+  "time" : {
+    "start" : 1611935987064,
+    "stop" : 1611935987075,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8665087d9fb3cfd",
+  "name" : "test_login[data0]",
+  "time" : {
+    "start" : 1611937105004,
+    "stop" : 1611937105012,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2e90d6faa3098e6",
+  "name" : "test_login[data4]",
+  "time" : {
+    "start" : 1611937105062,
+    "stop" : 1611937105069,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0ed731b1f407ae4",
+  "name" : "test_login[data2]",
+  "time" : {
+    "start" : 1611935987047,
+    "stop" : 1611935987056,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62531c720bfc063f",
+  "name" : "test_login[data0]",
+  "time" : {
+    "start" : 1611935986932,
+    "stop" : 1611935986945,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "username": "bobo",
+    "userId": "8888",
+    "token": "adafsdfdsgfgfgdfgfd"
+ }
+}
